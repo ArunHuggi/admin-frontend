@@ -1,0 +1,17 @@
+.css-ax94ij-MuiButtonBase-root-MuiPaginationItem-root {
+    color: white !important;
+    background-color: #0096ff !important;
+  }
+  
+  .MuiPaginationItem-page.Mui-selected {
+    color: #0096ff;
+    /* background-color: greenyellow; */
+    border-color: #0096ff;
+  }
+  
+  .css-ax94ij-MuiButtonBase-root-MuiPaginationItem-root.Mui-selected {
+    background-color: white !important;
+    color: #0096ff !important;
+  }
+  
+  

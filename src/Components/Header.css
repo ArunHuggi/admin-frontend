@@ -1,0 +1,22 @@
+.header{
+    background-color: rgb(185, 247, 247);
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 10px;
+    height: 4rem;
+}
+
+.admin {
+  color: rgb(59, 56, 56);
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 40px;
+  padding-left: 1rem; 
+  font-weight: 500;
+}
+
+.ui {
+  color:#0096FF;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+}
